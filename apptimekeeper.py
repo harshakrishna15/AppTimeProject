@@ -14,8 +14,6 @@ def AppTimeKeeper():
     lastItemInList = len(hours)-1
     moreHours = 0
 
-    # checkTrue = True
-
     print("Press q to the next minute or hour")
 
     while True:
